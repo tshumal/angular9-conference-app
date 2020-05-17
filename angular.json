@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular9-conference-app"
+    }
+  },
+  "defaultProject": "angular9-conference-app",
+  "cli": {
+    "analytics": "750f4a76-51e1-408a-b5e2-5515c1c423f5"
+  }
 }
